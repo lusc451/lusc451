@@ -33,4 +33,4 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=lusc451&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-![Snake animation](https://github.com/lusc451/lusc451/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
