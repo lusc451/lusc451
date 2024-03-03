@@ -32,7 +32,4 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusc451&layout=compact&langs_count=7&theme=dracula" />
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=lusc451&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 ![Snake animation](https://github.com/lusc451/lusc451/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lusc451&repo=lusc451&theme=react)](https://github.com/lusc451/lusc451)
