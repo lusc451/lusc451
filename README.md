@@ -34,3 +34,5 @@
 </div>
 
 ![Snake animation](https://github.com/lusc451/lusc451/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lusc451&repo=lusc451&theme=react)](https://github.com/lusc451/lusc451)
