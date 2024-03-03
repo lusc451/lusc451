@@ -34,5 +34,4 @@
 
 </div>
 
-##
 ![Snake animation](https://github.com/lusc451/lusc451/blob/output/github-contribution-grid-snake.svg)
