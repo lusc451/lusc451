@@ -19,13 +19,16 @@ Olá, meu nome é **Lucas Antunes**! Sou estudante de Análise e Desenvolvimento
 
 ## Atualmente Aprendendo
 
-| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> |
-| :---: | :---: | :---: | :---: |
-| **JavaScript** | **TypeScript** | **MongoDB** | **React** |
+|   |   |   |   |
+|---|---|---|---|
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg) | ![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg) |
+| **JavaScript** | **TypeScript** | **MongoDB** | **Jupyter** |
 | ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg) |
 | **Rust** | **Python** | **Node.js** | **Django** |
 
-<img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" width="210" height="210" align="right">
+<div align="right">
+<img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" width="210" height="210">
+</div>
 
 ## Contatos e Redes Sociais
 
