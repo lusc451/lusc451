@@ -26,7 +26,7 @@ Olá, meu nome é **Lucas Antunes**! Sou estudante de Análise e Desenvolvimento
 | ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg) |
 | **Rust** | **Python** | **Node.js** | **Django** |
 
-<div align="right">
+<div align="right" style="margin-top: 30px;">
 <img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" width="210" height="210">
 </div>
 
