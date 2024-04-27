@@ -2,6 +2,15 @@
 
 Olá, meu nome é **Lucas Antunes**! Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Franca e técnico em Informática e Eletroeletrônica. Aqui você encontrará alguns dos projetos nos quais estou trabalhando e aprendendo.
 
+<div style="display: table; width: 100%;">
+  <div style="display: table-cell;">
+    <!-- Sua tabela "Atualmente Aprendendo" aqui -->
+  </div>
+  <div style="display: table-cell; width: 210px; vertical-align: middle; text-align: right;">
+    <img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" width="210" height="210">
+  </div>
+</div>
+
 ## Educação
 
 - 🌱 **Análise e Desenvolvimento de Sistemas** - Fatec Franca
@@ -25,10 +34,6 @@ Olá, meu nome é **Lucas Antunes**! Sou estudante de Análise e Desenvolvimento
 | **JavaScript** | **TypeScript** | **MongoDB** | **Jupyter** |
 | ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg) |
 | **Rust** | **Python** | **Node.js** | **Django** |
-
-<div align="right" style="margin-top: 30px;">
-<img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" width="210" height="210">
-</div>
 
 ## Contatos e Redes Sociais
 
