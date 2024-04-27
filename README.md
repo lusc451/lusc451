@@ -19,6 +19,8 @@ Olá, meu nome é **Lucas Antunes**! Sou estudante de Análise e Desenvolvimento
 
 ## Atualmente Aprendendo
 
+<img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" width="250" align="right">
+
 |   |   |
 |---|---|
 | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) |
@@ -29,8 +31,6 @@ Olá, meu nome é **Lucas Antunes**! Sou estudante de Análise e Desenvolvimento
 | **Python** | **Node.js** |
 | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg) |   |
 | **Django** |   |
-
-<img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" width="300" align="right">
 
 ## Contatos e Redes Sociais
 
