@@ -19,32 +19,16 @@ Olá, meu nome é **Lucas Antunes**! Sou estudante de Análise e Desenvolvimento
 
 ## Atualmente Aprendendo
 
-<p align="center">
-  <table>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60"></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60"></td>
-    </tr>
-    <tr>
-      <td align="center" colspan="4">JavaScript | TypeScript | MongoDB | Jupyter</td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="60" height="60"></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="60" height="60"></td>
-    </tr>
-    <tr>
-      <td align="center" colspan="4">Rust | Python | Node.js | Django</td>
-    </tr>
-  </table>
-</p>
+|   |   |   |   |
+|---|---|---|---|
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg) | ![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg) |
+| **JavaScript** | **TypeScript** | **MongoDB** | **Jupyter** |
+| ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg) |
+| **Rust** | **Python** | **Node.js** | **Django** |
 
-<p align="right">
-  <img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" style="width: 210px; position: relative; top: -220px; right: 10px;">
-</p>
+<div align="right">
+<img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" width="210" height="210">
+</div>
 
 ## Contatos e Redes Sociais
 
