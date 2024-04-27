@@ -19,18 +19,13 @@ Olá, meu nome é **Lucas Antunes**! Sou estudante de Análise e Desenvolvimento
 
 ## Atualmente Aprendendo
 
-<img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" width="250" align="right">
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> |
+| :---: | :---: | :---: | :---: |
+| **JavaScript** | **TypeScript** | **MongoDB** | **React** |
+| ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg) |
+| **Rust** | **Python** | **Node.js** | **Django** |
 
-|   |   |
-|---|---|
-| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) |
-| **JavaScript** | **TypeScript** |
-| ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg) | ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg) |
-| **MongoDB** | **Rust** |
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg) |
-| **Python** | **Node.js** |
-| ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg) |   |
-| **Django** |   |
+<img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" width="210" height="210" align="right">
 
 ## Contatos e Redes Sociais
 
