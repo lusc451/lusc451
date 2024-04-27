@@ -19,16 +19,14 @@ Olá, meu nome é **Lucas Antunes**! Sou estudante de Análise e Desenvolvimento
 
 ## Atualmente Aprendendo
 
-|   |   |
-|---|---|
-| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) |
-| **JavaScript** | **TypeScript** |
-| ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg) | ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg) |
-| **MongoDB** | **Rust** |
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg) |
-| **Python** | **Node.js** |
-| ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg) |   |
-| **Django** |   |
+|   |   |   |
+|---|---|---|
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg) |
+| **JavaScript** | **TypeScript** | **MongoDB** |
+| ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg) |
+| **Rust** | **Python** | **Node.js** |
+| ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg) |  | <img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" width="120" height="120" align="right"> |
+| **Django** |   |   |
 
 ## Contatos e Redes Sociais
 
@@ -38,7 +36,6 @@ Olá, meu nome é **Lucas Antunes**! Sou estudante de Análise e Desenvolvimento
 <a href="mailto:cleiton.lucas416@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/lucas-antunes-69577b183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/LdeLucao" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<img src="https://i.ibb.co/TM71zJz/octocat-1709493324232.png" alt="octocat" width="150" height="150" align="right">
 </div>
 
 ## Estatísticas do GitHub
